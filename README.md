@@ -1,0 +1,18 @@
+## ML final project  
+
+# This project was created to create boosted gradient trees, train them, and compare  
+# them to regular decision trees. Boosted trees work by creating many decision trees  
+# but after making one tree, the next tree is created based off the lose and mistakes  
+# of the previous tree. This pattern is continued until an early stop is activated or  
+# until the iteration ends.  
+
+### Setting up the data  
+
+# First you start by spliting up the csv file into training and testing files. This  
+# is done by adding the csv filename into the split_data file created by Curtis Larson.  
+
+### Making a GB Tree  
+*Optimize hyperparameters in gradient boosted function  
+*Hyperparameters can be tuned using the tuner  
+*Run the program to display the results of the training  
+
