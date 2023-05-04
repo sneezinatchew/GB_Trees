@@ -6,12 +6,12 @@
 ### of the previous tree. This pattern is continued until an early stop is activated or  
 ### until the iteration ends.  
 
-## Setting up the data  
+# Setting up the data  
 
 ### First you start by spliting up the csv file into training and testing files. This  
 ### is done by adding the csv filename into the split_data file created by Curtis Larson.  
 
-## Making a GB Tree  
+# Making a GB Tree  
 *Optimize hyperparameters in gradient boosted function  
 *Hyperparameters can be tuned using the tuner  
 *Run the program to display the results of the training  
